@@ -1,6 +1,6 @@
 {
   "name": "@kris-inc/function-benchmarker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple benchmark for testing function performance",
   "main": "dist/index.min.js",
   "scripts": {
@@ -24,6 +24,9 @@
   "keywords": ["performance", "benchmark", "evaluation", "speed", "timer"],
   "author": "KRISINC <ksbeanch@gmail.com> (https://google.com)",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "jest": "^30.0.5",
     "rollup": "^2.79.2",
