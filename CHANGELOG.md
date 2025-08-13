@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/krisinc/function-benchmarker/compare/v1.0.4...v1.0.5) (2025-08-13)
+
+
+### Bug Fixes
+
+* fixed CI ([380cb58](https://github.com/krisinc/function-benchmarker/commit/380cb580c262787d693bb48c0f6cefb7ac4e19d8))
+
 ## [1.0.4](https://github.com/krisinc/function-benchmarker/compare/v1.0.3...v1.0.4) (2025-08-13)
 
 
