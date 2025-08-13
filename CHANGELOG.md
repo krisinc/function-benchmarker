@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/krisinc/function-benchmarker/compare/v1.0.3...v1.0.4) (2025-08-13)
+
+
+### Bug Fixes
+
+* updated workflow ([db272fb](https://github.com/krisinc/function-benchmarker/commit/db272fb111cd14837fbec8fbc5bbb1cb49bdb57e))
+
 ## [1.0.3](https://github.com/krisinc/function-benchmarker/compare/v1.0.2...v1.0.3) (2025-08-13)
 
 
