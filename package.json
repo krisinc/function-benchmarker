@@ -1,6 +1,6 @@
 {
   "name": "@kris-inc/function-benchmarker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple benchmark for testing function performance",
   "main": "dist/index.min.js",
   "scripts": {
